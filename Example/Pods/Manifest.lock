@@ -1,0 +1,16 @@
+PODS:
+  - AIFlagPhoneNumber (0.1.0)
+
+DEPENDENCIES:
+  - AIFlagPhoneNumber (from `../`)
+
+EXTERNAL SOURCES:
+  AIFlagPhoneNumber:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  AIFlagPhoneNumber: 9b2f3d5a9a56fbce22593c1508af39380f94a51b
+
+PODFILE CHECKSUM: ce560bbf1f7ffbad62e2a920354e7b9f64b9452b
+
+COCOAPODS: 1.10.1

@@ -1,0 +1,6 @@
+framework module AIFlagPhoneNumber {
+  umbrella header "AIFlagPhoneNumber-umbrella.h"
+
+  export *
+  module * { export * }
+}

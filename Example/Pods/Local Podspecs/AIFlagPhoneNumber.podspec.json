@@ -1,0 +1,22 @@
+{
+  "name": "AIFlagPhoneNumber",
+  "version": "0.1.0",
+  "summary": "A short description of AIFlagPhoneNumber.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/ahmedissawi90@gmail.com/AIFlagPhoneNumber",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "ahmedissawi90@gmail.com": "ahmedissawi90@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/ahmedissawi90@gmail.com/AIFlagPhoneNumber.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "AIFlagPhoneNumber/Classes/**/*"
+}
